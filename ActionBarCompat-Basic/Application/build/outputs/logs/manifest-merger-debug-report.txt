@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:19:5-56
+	android:versionName
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:26:5-39:19
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Jan\.android\build-cache\f2b872a11f8da26e9266a223f389b4e5c2423f02\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Jan\.android\build-cache\6043718b73922981982d9788c0c2eb84a5672a5e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jan\.android\build-cache\feb8b8c63cfd3b694006ea62a8c53d1e6e35a3dc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jan\.android\build-cache\9a2a7a48c23ad5da55a53c539ff1b2656d66e139\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jan\.android\build-cache\3721453b19eb75b2c1bf6b0f14430bfe1218306b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jan\.android\build-cache\521014ff1c992dedf96cd1aa399cc71d46b34aaa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jan\.android\build-cache\82ae1a81ab2f7f2224427b8886005b207899fb06\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jan\.android\build-cache\a982f19fa76322f80bc84fc1f790a2e63a1ce8d0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jan\.android\build-cache\d68c35a7695755505f182bc198ae67a47f01a8d4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jan\.android\build-cache\4ad319d5e75ce01bb0b5e085a17e6a63bc618858\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jan\.android\build-cache\0ee3fecc91906d0fa3d11027c82baab9e330a584\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:27:9-45
+	android:theme
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:29:9-47
+activity#com.example.android.actionbarcompat.basic.MainActivity
+ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:32:9-38:20
+	android:name
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:32:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Jan\.android\build-cache\f2b872a11f8da26e9266a223f389b4e5c2423f02\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Jan\.android\build-cache\6043718b73922981982d9788c0c2eb84a5672a5e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jan\.android\build-cache\feb8b8c63cfd3b694006ea62a8c53d1e6e35a3dc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jan\.android\build-cache\9a2a7a48c23ad5da55a53c539ff1b2656d66e139\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jan\.android\build-cache\3721453b19eb75b2c1bf6b0f14430bfe1218306b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jan\.android\build-cache\521014ff1c992dedf96cd1aa399cc71d46b34aaa\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jan\.android\build-cache\82ae1a81ab2f7f2224427b8886005b207899fb06\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jan\.android\build-cache\a982f19fa76322f80bc84fc1f790a2e63a1ce8d0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jan\.android\build-cache\d68c35a7695755505f182bc198ae67a47f01a8d4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jan\.android\build-cache\4ad319d5e75ce01bb0b5e085a17e6a63bc618858\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jan\.android\build-cache\0ee3fecc91906d0fa3d11027c82baab9e330a584\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jan\.android\build-cache\feb8b8c63cfd3b694006ea62a8c53d1e6e35a3dc\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jan\AndroidStudioProjects\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Jan\.android\build-cache\f2b872a11f8da26e9266a223f389b4e5c2423f02\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Jan\.android\build-cache\6043718b73922981982d9788c0c2eb84a5672a5e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jan\.android\build-cache\feb8b8c63cfd3b694006ea62a8c53d1e6e35a3dc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jan\.android\build-cache\9a2a7a48c23ad5da55a53c539ff1b2656d66e139\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jan\.android\build-cache\3721453b19eb75b2c1bf6b0f14430bfe1218306b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jan\.android\build-cache\521014ff1c992dedf96cd1aa399cc71d46b34aaa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jan\.android\build-cache\82ae1a81ab2f7f2224427b8886005b207899fb06\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jan\.android\build-cache\a982f19fa76322f80bc84fc1f790a2e63a1ce8d0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jan\.android\build-cache\d68c35a7695755505f182bc198ae67a47f01a8d4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jan\.android\build-cache\4ad319d5e75ce01bb0b5e085a17e6a63bc618858\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jan\.android\build-cache\0ee3fecc91906d0fa3d11027c82baab9e330a584\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Jan\.android\build-cache\f2b872a11f8da26e9266a223f389b4e5c2423f02\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Jan\.android\build-cache\f2b872a11f8da26e9266a223f389b4e5c2423f02\output\AndroidManifest.xml:23:9-47
